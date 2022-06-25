@@ -20,9 +20,9 @@
 
 2、[快速上手 Nacos](docs/快速上手%20Nacos.md)
 
-3、Springboot 方式使用 Nacos
+3、Spring Boot 方式使用 Nacos
 
-4、Springcloud 方式使用 Nacos
+4、Spring Cloud 方式使用 Nacos
 
 5、在 Docker 上部署 Nacos
 
