@@ -1,4 +1,4 @@
-package org.on.nacos.nacosspringbootdiscovery;
+package org.on.nacos.springboot.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
