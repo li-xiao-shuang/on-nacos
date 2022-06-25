@@ -29,7 +29,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
-    
+            
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
@@ -38,6 +38,11 @@
             <dependency>
                 <groupId>com.alibaba.boot</groupId>
                 <artifactId>nacos-config-spring-boot-starter</artifactId>
+                <version>${nacos-spring-boot.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba.boot</groupId>
+                <artifactId>nacos-discovery-spring-boot-starter</artifactId>
                 <version>${nacos-spring-boot.version}</version>
             </dependency>
         </dependencies>
