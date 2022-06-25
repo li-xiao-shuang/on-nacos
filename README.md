@@ -20,7 +20,7 @@
 
 2、[快速上手 Nacos](docs/快速上手%20Nacos.md)
 
-3、Spring Boot 方式使用 Nacos
+3、[Spring Boot 方式使用 Nacos](docs/Spring%20Boot%20方式使用%20Nacos.md)
 
 4、Spring Cloud 方式使用 Nacos
 
