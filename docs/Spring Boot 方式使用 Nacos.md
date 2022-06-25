@@ -1,6 +1,6 @@
-本文介绍下如何在 Spring Boot 项目中使用 Nacos，Nacos 主要分为两个部分，配置中心和服务注册与发现。在使用 Spring Boot 项目中使用 Nacos ，首先要保证启动一个 Nacos 服务，具体可以参考《[快速上手 Nacos](https://github.com/li-xiao-shuang/on-nacos/blob/master/docs/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%20Nacos.md)》来搭建一个单机的 Nacos 服务。
+本文介绍下如何在 Spring Boot 项目中使用 Nacos，Nacos 主要分为两个部分，配置中心和服务注册与发现。在使用 Spring Boot 项目中使用 Nacos ，首先要保证启动一个 Nacos 服务，具体可以参考[【快速上手 Nacos】](https://github.com/li-xiao-shuang/on-nacos/blob/master/docs/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%20Nacos.md)来搭建一个单机的 Nacos 服务。
 
-Nacos 封装 starter 的源代码可以参考 **[nacos-spring-boot-project](https://github.com/nacos-group/nacos-spring-boot-project)** 这个项目，感兴趣的朋友可以查看源代码。
+Nacos 封装 starter 的源代码可以参考 **[【nacos-spring-boot-project】](https://github.com/nacos-group/nacos-spring-boot-project)** 这个项目，感兴趣的朋友可以查看源代码。
 
 > 本篇文章的详细的代码示例点击[【nacos-spring-boot】](https://github.com/li-xiao-shuang/on-nacos/tree/master/nacos-spring-boot)查看
 
