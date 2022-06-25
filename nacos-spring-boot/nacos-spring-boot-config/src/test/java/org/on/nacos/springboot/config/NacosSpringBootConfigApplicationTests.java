@@ -1,10 +1,10 @@
-package org.on.nacos.springboot;
+package org.on.nacos.springboot.config;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NacosSpringBootApplicationTests {
+class NacosSpringBootConfigApplicationTests {
     
     @Test
     void contextLoads() {
