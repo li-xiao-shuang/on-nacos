@@ -22,7 +22,7 @@
 
 3、[Spring Boot 方式使用 Nacos](docs/Spring%20Boot%20方式使用%20Nacos.md)
 
-4、Spring Cloud 方式使用 Nacos
+4、[Spring Cloud 方式使用 Nacos](docs/Spring%20Cloud%20方式使用%20Nacos.md)
 
 5、在 Docker 上部署 Nacos
 
