@@ -18,6 +18,7 @@
     
     <modules>
         <module>nacos-spring-boot</module>
+        <module>nacos-spring-cloud</module>
     </modules>
     
     <dependencyManagement>
