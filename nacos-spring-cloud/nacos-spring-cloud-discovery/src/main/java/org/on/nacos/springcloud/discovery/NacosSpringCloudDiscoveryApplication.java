@@ -1,4 +1,4 @@
-package org.on.nacos.nacosspringclouddiscovery;
+package org.on.nacos.springcloud.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
