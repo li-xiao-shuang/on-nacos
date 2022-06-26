@@ -13,7 +13,6 @@
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <fastJson.version>2.0.3</fastJson.version>
-        <nacos-spring-boot.version>0.2.10</nacos-spring-boot.version>
     </properties>
     
     <modules>
@@ -35,16 +34,6 @@
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
                 <version>${fastJson.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.alibaba.boot</groupId>
-                <artifactId>nacos-config-spring-boot-starter</artifactId>
-                <version>${nacos-spring-boot.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.alibaba.boot</groupId>
-                <artifactId>nacos-discovery-spring-boot-starter</artifactId>
-                <version>${nacos-spring-boot.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

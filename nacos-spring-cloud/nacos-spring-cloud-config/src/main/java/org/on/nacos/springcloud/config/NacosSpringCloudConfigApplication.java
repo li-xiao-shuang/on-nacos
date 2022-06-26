@@ -1,4 +1,4 @@
-package org.on.nacos.nacosspringcloudconfig;
+package org.on.nacos.springcloud.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

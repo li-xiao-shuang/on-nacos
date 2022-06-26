@@ -20,6 +20,18 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
+        <springcloud-alibaba.version>2.2.8.RELEASE</springcloud-alibaba.version>
     </properties>
+    
+    <dependencyManagement>
+        <dependencies>
+            <!--配置中心-->
+            <dependency>
+                <groupId>com.alibaba.cloud</groupId>
+                <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
+                <version>${springcloud-alibaba.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 
 </project>
