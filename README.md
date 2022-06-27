@@ -12,8 +12,8 @@
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h3imyk0dgsj20mo0e675e.jpg)
 
 # 视频分享
-Nacos PMC 彦林分享：[《Nacos 开源、自研、商业化三位一体》](https://developer.aliyun.com/learning/course/958)介绍 Nacos 三位一体战略、Nacos 生态&规划、Nacos 阿里落地实践、解决方案等。
-Nacos PMC 席翁分享: [《Nacos 2.1 介绍》](https://developer.aliyun.com/live/249208)介绍了 Nacos 鉴权插件、加解密插件、后续的插件支持计划。
+- Nacos PMC 彦林分享：[《Nacos 开源、自研、商业化三位一体》](https://developer.aliyun.com/learning/course/958)介绍 Nacos 三位一体战略、Nacos 生态&规划、Nacos 阿里落地实践、解决方案等。
+- Nacos PMC 席翁分享: [《Nacos 2.1 介绍》](https://developer.aliyun.com/live/249208)介绍了 Nacos 鉴权插件、加解密插件、后续的插件支持计划。
 
 
 # <a id="start">入门篇</a>
